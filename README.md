@@ -1,1 +1,2 @@
-# CPSC354
+Ava Ambuske
+ambuske@chapman.edu
